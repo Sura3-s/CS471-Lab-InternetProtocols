@@ -1,1 +1,1 @@
-# CS471-Lab2-TheInternetProtocols
+# CS471-Lab2-InternetProtocols
